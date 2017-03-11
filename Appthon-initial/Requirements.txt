@@ -1,0 +1,20 @@
+1) Multiple entry, egress
+
+2) Assign roles:
+	Entry
+	Egress
+	Floor
+
+3) Maintain list of free spaces
+
+4) Frequent parker pass
+
+5) Record Car number
+
+6) Automatic time tracker
+
+3,4,5,6 : Distributed data, divided by type of data...example, entry/egress data, floor data
+
+7) Emergency block/clear
+
+8) Use internet/LoCal WiFi, other networks not large/scalable/resilient enough.

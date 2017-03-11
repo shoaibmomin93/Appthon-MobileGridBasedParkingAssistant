@@ -1,0 +1,25 @@
+Components[edit]
+
+Typical components of a software product requirements document are:[citation needed]
+
+Title & author information
+Purpose and scope, from both a technical and business perspective
+Stakeholder identification
+Market assessment and target demographics
+Product overview and use cases
+Requirements, including
+functional requirements (e.g. what a product should do)
+usability requirements
+technical requirements (e.g. security, network, platform, integration, client)
+environmental requirements
+support requirements
+interaction requirements (e.g. how the software should work with other systems)
+Assumptions
+Constraints
+High level workflow plans, timelines and milestones 
+(more detail is defined through a project plan)
+Evaluation plan and performance metrics
+Not all PRDs have all of these components. 
+In particular, PRDs for other types of products (manufactured goods, etc.) will 
+eliminate the software-specific elements from the list above, and may add in additional 
+elements that pertain to their domain, e.g. manufacturing requirements.

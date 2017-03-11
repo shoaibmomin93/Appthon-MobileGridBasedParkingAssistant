@@ -1,0 +1,44 @@
+A general guideline is to focus on what is required without constraining how this will be done. Considerations concerning policy-decisions and specific concerns on implementation and security should be clarified in the Limitations, Questions and Issues-section and the relevant impacts referred to in the Recommendations-section.
+
+Report Template
+
+Executive Summary:
+
+Estimates state that most households in metro cities either possess, or hope to possess, multiple cars. This opens up a new problem of real estate, to address housing concerns of vehicles rather than humans. In no place is this seen in a greater extent, than in public places like malls, theatres, etc
+Introduction:
+
+Introduces the major sections of the report as well as the primary people involved in conducting the requirements gathering and the techniques used in producing the report. The client is also clearly identified.
+
+Background:
+
+Describes any information that is needed to provide the reader with an understanding of the background, e.g., who initiated it and why.
+
+Scope and Purpose:
+
+Describes the scope and purpose(s) of the proposed product.
+
+Methods and Instrumentation:
+
+Describes the methods and techniques used to gather information, such as observations and surveys. Step-by-step descriptions of what was done should be provided. Describes all the instruments and tools that were used during this phase, and copies of the tools should be included in the Appendices.
+
+Limitations, Questions and Issues:
+
+Precise specification of questions, issues and problems. Spells out any limitations and issues concerning achievability and policy-dependent decisions, also describe threats to the reliability and validity of the instruments used in requirements gathering (e.g., questionnaires, interview protocols, or focus group protocols). List "non-requirements" to tell the difference between something you forgot, and something you do not need. Clarity and detail are needed to enable useful answers.
+
+Results:
+
+Spells out the findings; list all the determined requirements in sufficient detail for clear understanding. Graphs, charts and statistics should be used wherever appropriate.
+
+Recommendations:
+
+Presents recommendations to achieve the Scope and Purpose based upon the Results given the Limitations, Questions and Issues.
+
+References:
+
+Lists the sources reviewed or consulted during the analysis.
+
+Appendices:
+
+Additional material for clarification, extention and informational purposes.
+
+

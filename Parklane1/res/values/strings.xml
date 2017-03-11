@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parklane1</string>
+    <string name="action_settings">Settings</string>
+    <string name="A">Enter Location</string>
+    <string name="B">Enter Manager IP</string>
+    <string name="C">Enter Vehicle Number</string>
+    <string name="D">Allot Parking</string>
+    <string name="E">Enter Slot Number</string>
+    <string name="F">Please Select your Role</string>
+    <string name="G">Entry Operator</string>
+    <string name="H">Exit Operator</string>
+    <string name="I">Floor Operator</string>
+    <string name="J">Parking Slot Number</string>
+    <string name="K">System Manager</string>
+    <string name="Q">0</string>
+    <string name="L">Your IP Address Could Not Be Found</string>
+    <string name="title_activity_entry">Entry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_exit">Exit</string>
+    <string name="title_activity_manager">Manager</string>
+    <string name="title_activity_floor">Floor</string>
+    <string name="M">Calculate Amnt &amp; Clear Slot</string>
+    <string name="X">Manager Setup</string>
+
+</resources>
